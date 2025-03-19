@@ -1,17 +1,7 @@
-#Pepositorio para LP3
+# Pepositorio para LP3
 
 ## Autor:
--Karlo Ayala
+- Karlo Ayala
 
 ## Lab 1
--git + githu
--git + githu
--git + githu
--git + githu
--git + githu
--git + githu
--git + githu
--git + githu
--git + githu
--git + githu
--git + githubbbbbbbbbbb
+- git + github
